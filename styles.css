@@ -1,0 +1,24 @@
+h1, h3, #para1, #img-div, #link {
+    text-align: center;
+  }
+  #tribute-info {
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+  li {
+    margin: 20px 0;
+  }
+  #dialogue {
+    margin: 0 400px;
+  }
+  #pm  {
+    margin: 0 400px;
+  }
+  figcaption {
+    margin-top: 5px;
+  }
+  #image {
+    height: auto;
+    max-width: 100%;
+  }
+
